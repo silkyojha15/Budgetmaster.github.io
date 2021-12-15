@@ -1,0 +1,392 @@
+# Copyright (C) 2015 Content Egg
+# This file is distributed under the same license as the Content Egg package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Egg 2.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/content-egg-tpl\n"
+"POT-Creation-Date: 2016-02-10 13:11+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-04-08 00:14+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.6.10\n"
+"Last-Translator: Sizam themes <sizamtheme@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+#: application/helpers/TemplateHelper.php:28
+msgid "number_format_decimal_point"
+msgstr ","
+
+#: application/helpers/TemplateHelper.php:29
+msgid "number_format_thousands_sep"
+msgstr "."
+
+#: application/helpers/TemplateHelper.php:99
+msgid "d"
+msgstr "Tage"
+
+#: application/helpers/TemplateHelper.php:101
+msgid "h"
+msgstr "Stunden"
+
+#: application/helpers/TemplateHelper.php:103
+#: application/helpers/TemplateHelper.php:105
+#: application/modules/Ebay/templates/data_item.php:90
+#: application/modules/Ebay/templates/data_list.php:42
+msgid "m"
+msgstr "Minuten"
+
+#: application/modules/AffilinetCoupons/templates/data_coupons.php:6
+msgid "Coupons"
+msgstr "Coupon"
+
+#: application/modules/AffilinetCoupons/templates/data_coupons.php:35
+#: application/modules/CjLinks/templates/data_universal.php:36
+msgid "Coupon code:"
+msgstr "Coupon Code:"
+
+#: application/modules/AffilinetCoupons/templates/data_coupons.php:37
+#: application/modules/CjLinks/templates/data_universal.php:38
+msgid "Ends:"
+msgstr "Endet:"
+
+#: application/modules/AffilinetCoupons/templates/data_coupons.php:46
+#: application/modules/CjLinks/templates/data_universal.php:49
+msgid "Shop Sale"
+msgstr "Angebot"
+
+#: application/modules/AffilinetProducts/templates/data_grid.php:6
+#: application/modules/Aliexpress/templates/data_grid.php:6
+#: application/modules/Amazon/templates/data_grid.php:6
+#: application/modules/CityadsProducts/templates/data_grid.php:6
+#: application/modules/CjProducts/templates/data_grid.php:6
+#: application/modules/Ebay/templates/data_grid.php:6
+#: application/modules/GdeSlon/templates/data_grid.php:6
+#: application/modules/Linkshare/templates/data_grid.php:6
+#: application/modules/Ozon/templates/data_grid.php:6
+#: application/modules/Shareasale/templates/data_grid.php:6
+#: application/modules/Zanox/templates/data_grid.php:6
+msgid "Grid"
+msgstr "Gitter"
+
+#: application/modules/AffilinetProducts/templates/data_item.php:6
+#: application/modules/Aliexpress/templates/data_item.php:6
+#: application/modules/Amazon/templates/data_item.php:6
+#: application/modules/CityadsProducts/templates/data_item.php:6
+#: application/modules/CjProducts/templates/data_item.php:6
+#: application/modules/Ebay/templates/data_item.php:6
+#: application/modules/GdeSlon/templates/data_item.php:6
+#: application/modules/Linkshare/templates/data_item.php:6
+#: application/modules/Market/templates/data_item.php:5
+#: application/modules/Ozon/templates/data_item.php:6
+#: application/modules/Shareasale/templates/data_item.php:6
+#: application/modules/Zanox/templates/data_item.php:6
+msgid "Product card"
+msgstr "Produktkarte"
+
+#: application/modules/AffilinetProducts/templates/data_item.php:50
+#: application/modules/Aliexpress/templates/data_item.php:50
+#: application/modules/Amazon/templates/data_compare.php:118
+#: application/modules/Amazon/templates/data_compare.php:239
+#: application/modules/Amazon/templates/data_item.php:75
+#: application/modules/CityadsProducts/templates/data_item.php:50
+#: application/modules/CjProducts/templates/data_item.php:46
+#: application/modules/Ebay/templates/data_item.php:68
+#: application/modules/GdeSlon/templates/data_item.php:46
+#: application/modules/Linkshare/templates/data_item.php:46
+#: application/modules/Ozon/templates/data_compare.php:87
+#: application/modules/Ozon/templates/data_compare.php:168
+#: application/modules/Ozon/templates/data_item.php:59
+#: application/modules/Shareasale/templates/data_item.php:50
+#: application/modules/Zanox/templates/data_item.php:46
+msgid "BUY THIS ITEM"
+msgstr "Jetzt kaufen bei"
+
+#: application/modules/AffilinetProducts/templates/data_list.php:6
+#: application/modules/Aliexpress/templates/data_list.php:6
+#: application/modules/Amazon/templates/data_list.php:6
+#: application/modules/CityadsProducts/templates/data_list.php:6
+#: application/modules/CjProducts/templates/data_list.php:6
+#: application/modules/Ebay/templates/data_list.php:6
+#: application/modules/GdeSlon/templates/data_list.php:6
+#: application/modules/Linkshare/templates/data_list.php:6
+#: application/modules/Ozon/templates/data_list.php:6
+#: application/modules/Shareasale/templates/data_list.php:6
+#: application/modules/Zanox/templates/data_list.php:6
+msgid "List"
+msgstr "Liste"
+
+#: application/modules/Amazon/templates/data_compare.php:6
+#: application/modules/Amazon/templates/data_compare.php:40
+#: application/modules/Ozon/templates/data_compare.php:6
+#: application/modules/Ozon/templates/data_compare.php:28
+msgid "Compare"
+msgstr "Vergleich"
+
+#: application/modules/Amazon/templates/data_compare.php:58
+#: application/modules/Ozon/templates/data_compare.php:45
+msgid "User Rating"
+msgstr "Kundenbewertungen"
+
+#: application/modules/Amazon/templates/data_compare.php:67
+msgid "ratings"
+msgstr "Bewertungen"
+
+#: application/modules/Amazon/templates/data_compare.php:71
+#: application/modules/Ozon/templates/data_compare.php:57
+msgid "See all reviews"
+msgstr "Ziege alle Bewertungen"
+
+#: application/modules/Amazon/templates/data_compare.php:79
+#: application/modules/Ozon/templates/data_compare.php:65
+msgid "Price"
+msgstr "Preis"
+
+#: application/modules/Amazon/templates/data_compare.php:87
+#: application/modules/Amazon/templates/data_item.php:51
+#: application/modules/Amazon/templates/data_list.php:45
+msgid "Too low to display"
+msgstr "Zu gering"
+
+#: application/modules/Amazon/templates/data_compare.php:90
+#: application/modules/Amazon/templates/data_item.php:55
+#: application/modules/Amazon/templates/data_list.php:49
+#: application/modules/Ebay/templates/data_item.php:99
+#: application/modules/Ebay/templates/data_list.php:69
+msgid "Free shipping"
+msgstr "Gratis Versand"
+
+#: application/modules/Amazon/templates/data_compare.php:96
+#: application/modules/Amazon/templates/data_item.php:61
+msgid "new"
+msgstr "neu"
+
+#: application/modules/Amazon/templates/data_compare.php:96
+#: application/modules/Amazon/templates/data_compare.php:101
+#: application/modules/Amazon/templates/data_item.php:61
+#: application/modules/Amazon/templates/data_item.php:66
+msgid "from"
+msgstr "ab"
+
+#: application/modules/Amazon/templates/data_compare.php:101
+#: application/modules/Amazon/templates/data_item.php:66
+msgid "used"
+msgstr "gebraucht"
+
+#: application/modules/Amazon/templates/data_compare.php:106
+#: application/modules/Amazon/templates/data_item.php:71
+#: application/modules/Ozon/templates/data_compare.php:75
+msgid "as of"
+msgstr "am"
+
+#: application/modules/Amazon/templates/data_compare.php:114
+#: application/modules/Amazon/templates/data_compare.php:235
+#: application/modules/Ozon/templates/data_compare.php:83
+#: application/modules/Ozon/templates/data_compare.php:164
+msgid "Shop Now"
+msgstr "Jetzt kaufen"
+
+#: application/modules/Amazon/templates/data_compare.php:127
+#: application/modules/Amazon/templates/data_item.php:90
+#: application/modules/Ozon/templates/data_item.php:95
+msgid "Features"
+msgstr "Eigenschaften"
+
+#: application/modules/Amazon/templates/data_compare.php:177
+#: application/modules/Ozon/templates/data_compare.php:137
+msgid "User Reviews"
+msgstr "Kundenbewertungen"
+
+#: application/modules/Amazon/templates/data_compare.php:202
+msgid "Expert Reviews"
+msgstr "Expertenmeinungen"
+
+#: application/modules/Amazon/templates/data_compare.php:218
+msgid "Barcodes"
+msgstr "Barcodes"
+
+#: application/modules/Amazon/templates/data_compare.php:246
+msgid "Images"
+msgstr "Bilder"
+
+#: application/modules/Amazon/templates/data_grid.php:65
+#: application/modules/Amazon/templates/data_list.php:57
+msgid "Last updated on"
+msgstr "Letztes Update am"
+
+#: application/modules/Amazon/templates/data_item.php:102
+#: application/modules/Market/templates/data_item.php:106
+#: application/modules/Ozon/templates/data_item.php:80
+msgid "Customer reviews"
+msgstr "Kundenbewertungen"
+
+#: application/modules/Amazon/templates/data_item.php:107
+msgid "customer reviews"
+msgstr "Kundenbewertungen"
+
+#: application/modules/BingImages/templates/data_image.php:5
+#: application/modules/GoogleImages/templates/data_image.php:5
+msgid "Image"
+msgstr "Bild"
+
+#: application/modules/BingImages/templates/data_justified_gallery.php:7
+#: application/modules/Flickr/templates/data_justified_gallery.php:7
+#: application/modules/GoogleImages/templates/data_justified_gallery.php:7
+#: application/modules/Ozon/templates/data_compare.php:177
+msgid "Gallery"
+msgstr "Galerie"
+
+#: application/modules/CjLinks/templates/data_universal.php:6
+msgid "Universal"
+msgstr "Universal"
+
+#: application/modules/Clickbank/templates/data_simple.php:6
+#: application/modules/Flickr/templates/data_simple.php:5
+#: application/modules/Freebase/templates/data_simple.php:5
+#: application/modules/GoogleBooks/templates/data_simple.php:5
+#: application/modules/GoogleImages/templates/data_simple.php:5
+#: application/modules/Twitter/templates/data_simple.php:5
+#: application/modules/VkNews/templates/data_simple.php:5
+#: application/modules/Youtube/templates/data_simple.php:5
+msgid "Simple"
+msgstr "Einfach"
+
+#: application/modules/Ebay/templates/data_grid.php:51
+#: application/modules/Ebay/templates/data_item.php:45
+#: application/modules/Ebay/templates/data_item.php:52
+#: application/modules/Ebay/templates/data_list.php:62
+msgid "Buy It Now"
+msgstr "Jetzt kaufen"
+
+#: application/modules/Ebay/templates/data_grid.php:53
+#: application/modules/Ebay/templates/data_item.php:76
+#: application/modules/Ebay/templates/data_list.php:64
+msgid "Bids:"
+msgstr "Gebote:"
+
+#: application/modules/Ebay/templates/data_item.php:54
+msgid "Current Price"
+msgstr "Aktueller Preis"
+
+#: application/modules/Ebay/templates/data_item.php:68
+msgid "VIEW THIS ITEM"
+msgstr "Produkt anzeigen"
+
+#: application/modules/Ebay/templates/data_item.php:81
+msgid "Item condition:"
+msgstr "Zustand"
+
+#: application/modules/Ebay/templates/data_item.php:89
+#: application/modules/Ebay/templates/data_list.php:41
+msgid "Time left:"
+msgstr "Restzeit:"
+
+#: application/modules/Ebay/templates/data_item.php:94
+#: application/modules/Ebay/templates/data_list.php:46
+msgid "Ended:"
+msgstr "Endet:"
+
+#: application/modules/Ebay/templates/data_item.php:103
+msgid "EEK:"
+msgstr ""
+
+#: application/modules/Flickr/templates/data_simple.php:20
+msgid "Photo %s on Flickr"
+msgstr ""
+
+#: application/modules/Freebase/templates/data_simple.php:27
+msgid "Source:"
+msgstr "Quelle:"
+
+#: application/modules/Market/templates/data_item.php:32
+msgid "Customer reviews:"
+msgstr "Kundenbewertungen"
+
+#: application/modules/Market/templates/data_item.php:38
+msgid "Average price"
+msgstr "Durchschnittspreis"
+
+#: application/modules/Market/templates/data_item.php:49
+msgid "Data from Yandex.Market"
+msgstr ""
+
+#: application/modules/Market/templates/data_item.php:79
+msgid "free"
+msgstr "gratis"
+
+#: application/modules/Market/templates/data_item.php:86
+msgid "Pickup"
+msgstr "Abholung"
+
+#: application/modules/Market/templates/data_item.php:90
+msgid "In stock"
+msgstr "auf Lager"
+
+#: application/modules/Market/templates/data_item.php:92
+msgid "Not available"
+msgstr "nicht verfügbar"
+
+#: application/modules/Market/templates/data_item.php:97
+msgid "Visit store"
+msgstr "Shop besuchen"
+
+#: application/modules/Market/templates/data_item.php:123
+msgid "Pros:"
+msgstr "Pro:"
+
+#: application/modules/Market/templates/data_item.php:124
+msgid "Cons:"
+msgstr "Kontra:"
+
+#: application/modules/Market/templates/data_item.php:125
+msgid "Comment:"
+msgstr "Kommentar:"
+
+#: application/modules/Market/templates/data_item.php:130
+msgid "All reviews on Yandex.Market"
+msgstr ""
+
+#: application/modules/Ozon/templates/data_compare.php:54
+#: application/modules/Ozon/templates/data_item.php:41
+msgid "Reviews:"
+msgstr "Bewertungen:"
+
+#: application/modules/Ozon/templates/data_compare.php:96
+msgid "Description"
+msgstr "Beschreibung"
+
+#: application/modules/Youtube/templates/data_responsive_embed.php:5
+msgid "Large"
+msgstr "Groß"
+
+#: application/modules/Youtube/templates/data_tile.php:5
+msgid "Tile"
+msgstr "Kachel"
+
+#: templates/block_offers_list.php:9
+msgid "All offers list"
+msgstr "Liste aller Angebote"
+
+#. Plugin Name of the plugin/theme
+msgid "Content Egg"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.keywordrush.com/contentegg"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily adding auto updating products from affiliate systems and additional "
+"content to posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "keywordrush.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.keywordrush.com"
+msgstr ""

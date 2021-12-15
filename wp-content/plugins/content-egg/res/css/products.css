@@ -1,0 +1,159 @@
+.egg-container img { max-width: 100%; }
+
+.egg-container .products .rating > span {
+    display: inline-block;
+    position: relative;
+    font-size: 30px;
+    color: #337ACE;
+}
+
+.egg-container .products .rating_small > span {
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    color: #337ACE;
+}     
+
+.egg-container .products .rating_default > span {
+    display: inline-block;
+    position: relative;
+    font-size: 22px;
+    color: #337ACE;
+}              
+
+span.rating_small{white-space:nowrap}
+
+.egg-container .products .cegg-price{
+    font-size: 32px;
+    line-height: 30px;
+    white-space: nowrap;	
+}
+.egg-container .products .cegg-price small{
+    font-size: 22px;
+}
+.egg-container .products .offer_price{
+    font-weight: bold;
+}
+.egg-container .products span{
+    font-size: 14px;
+    font-weight: normal;
+}
+.egg-container .products .v-align{
+    vertical-align: middle;    
+}
+
+.egg-container .productbox {
+    background-color:#ffffff;
+    margin-bottom:10px;
+    padding-bottom:10px;
+    border: 1px solid white;
+}
+.egg-container .productbox:hover {
+    -webkit-box-shadow: 0 8px 6px -6px  #999;
+    -moz-box-shadow: 0 8px 6px -6px  #999;
+    box-shadow: 0 8px 6px -6px #999;
+    border: 1px solid #ccc;
+
+}
+.egg-container .producttitle, .egg-container .producttitle a {
+    color: black;
+    padding:5px 0 5px 0;
+    font-weight:bold;        
+    line-height: 20px;
+
+}
+
+.egg-container .producttitle span {
+    font-weight:normal;        
+    color: gray;
+    display: block;
+    line-height: 20px;
+}    
+
+.egg-container .productprice {
+    color: black;        
+    font-weight:bold;        
+    line-height: 20px;        
+}
+
+.egg-container .productprice strike {
+    color: grey;        
+    font-weight:normal;        
+}
+
+.egg-container .productprice span {
+    font-weight:normal;        
+}
+
+.egg-container .productbox img{
+    border: 0 none;
+    box-shadow: none;        
+}
+
+.egg-container .cegg-promotion {
+    line-height: 18px;
+}
+.egg-container .cegg-promotion {
+    border-radius: 4px;
+    top: 25px;
+    left: 0;
+    height: 24px;
+    position: absolute;
+    width: auto;
+    z-index: 10;
+}
+.egg-container .cegg-discount {
+    background: none repeat scroll 0 0 #eb5e58;
+    border-radius: 0 4px 4px 0;
+    color: #fff;
+    display: inline-block;
+    float: left;
+    font-size: 16px;
+    font-weight: lighter;
+    height: 100%;
+    padding: 3px 5px;
+}
+
+.egg-container .egg-padding-top {
+    padding-top: 22px;
+}
+
+.borderless tbody tr td, .borderless tbody tr th, .borderless thead tr th {
+    border: none;
+}
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+.egg-container .egg-padding-top15 {
+    padding-top: 15px;
+}
+
+.egg-compare .row{
+    border-bottom: 1px solid #ddd; padding: 5px 0px    
+}
+
+.egg-container .egg-listcontainer .row:before, .egg-container .egg-listcontainer .row:after{ display: none;}
+.egg-container .egg-listcontainer {display: table; border-collapse: collapse; margin-bottom: 30px;width: 100%;}
+.egg-container .egg-listcontainer .row-products{display: table-row;}
+.egg-container .egg-listcontainer .row-products > div{ display: table-cell; float: none; vertical-align: middle; border-bottom: 1px solid #ddd; padding: 10px 15px}
+.egg-container .egg-listcontainer .row-products:last-child > div{ border: none }
+.egg-container .row-products .offer_price {font-weight: bold;white-space:nowrap}
+.egg-container .row-products span {font-size: 14px;font-weight: normal;}
+.egg-container, .egg-list .row-products {clear: both; overflow: hidden;}
+.egg-list .row-products{margin-bottom:15px;margin-top:0}
+.egg-container .cegg-image-cell img { width: auto;}
+.egg-container .cegg-image-cell {text-align:center}
+
+@media (max-width: 768px) {
+    .egg-container .egg-listcontainer, .egg-container .egg-listcontainer .row-products, .egg-container .egg-listcontainer .row-products > div{ display: block;}
+    .egg-container .egg-listcontainer .row-products > div{ border: none; padding: 0}
+    .egg-container .egg-listcontainer .row-products{border-bottom: 1px solid #ddd; margin: 0; padding: 10px 0}
+    .egg-container .egg-listcontainer .row-products:last-child{border: none;}
+    .egg-item .col-md-6{padding:0; text-align:left !important}
+}
+
+@media (min-width:768px){
+    .egg-container .cegg-image-cell img{max-height:150px}
+}
